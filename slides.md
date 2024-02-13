@@ -16,6 +16,7 @@ canvasWidth: 1920
 colorSchema: light
 transition: slide-left
 download: true
+remote: energieinformatik
 ---
 
 <div class="blr">
@@ -26,6 +27,8 @@ download: true
 ## Integration von Ausbauzielen in süd- und nordeuropäischen Ländern: Auswirkungen auf die Lastflüsse im europäischen Stromnetz und ihre Folgen für Baden-Württemberg
 
 Alexander Sommer -- 13.02.2024
+
+Link zu den Folien: https://hd1ex.github.io/seminarvortrag-einfo/
 
 </div>
 
