@@ -25,7 +25,7 @@ export default {
       }).addTo(map.value);
       */
 
-      fetch('/countries.geojson')
+      fetch('/seminarvortrag-einfo/countries.geojson')
         .then((response) => response.json())
         .then((json) => {
           function style(feature) {
