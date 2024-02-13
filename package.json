@@ -1,0 +1,22 @@
+{
+  "name": "seminarvortrag-einfo",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.46.2",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "chart.js": "^4.4.1",
+    "chartjs-plugin-datalabels": "^2.2.0",
+    "leaflet": "^1.9.4",
+    "maplibre-gl": "^4.0.0"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.41.2"
+  }
+}

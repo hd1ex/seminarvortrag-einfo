@@ -1,0 +1,33 @@
+{
+    "id": "blank",
+    "name": "blank",
+    "zoom": 0.8619833357855968,
+    "pitch": 0,
+    "center": [
+        17.65431710431244,
+        32.954120326746775
+    ],
+    "glyphs": "https://demotiles.maplibre.org/font/{fontstack}/{range}.pbf",
+    "layers": [
+        {
+            "id": "background",
+            "type": "background",
+            "paint": {
+                "background-color": "#D8F2FF"
+            },
+            "filter": [
+                "all"
+            ],
+            "layout": {
+                "visibility": "visible"
+            },
+            "maxzoom": 24
+        }
+    ],
+    "bearing": 0,
+    "sources": {
+    },
+    "version": 8,
+    "metadata": {
+    }
+}

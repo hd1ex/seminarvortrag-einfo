@@ -1,0 +1,55 @@
+.slidev-layout h1 {
+  font-size: 5em !important;
+  line-height: 1.0em;
+}
+
+.slidev-layout h2 {
+  font-size: 4em !important;
+  line-height: 1.2em;
+}
+
+.slidev-layout h3 {
+  font-size: 2.4em !important;
+  line-height: 1.9em;
+}
+
+.slidev-layout p {
+  font-size: 3em;
+  line-height: 1.4em;
+}
+
+.slidev-layout li {
+  font-size: 2.8em;
+  line-height: 1.4em;
+}
+
+.slidev-layout td {
+  font-size: 2.8em;
+  line-height: 1.4em;
+}
+
+.slidev-layout th {
+  font-weight: bold;
+  font-size: 2.8em;
+  line-height: 1.4em;
+}
+
+.slidev-layout blockquote {
+  font-size: 1em;
+  line-height: 2.4em;
+  padding-left: 1.2em;
+}
+
+.blr {
+    backdrop-filter: blur(10px) saturate(80%);
+}
+
+.shad {
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+}
+
